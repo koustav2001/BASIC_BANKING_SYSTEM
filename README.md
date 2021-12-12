@@ -1,6 +1,5 @@
 # BASIC_BANKING_SYSTEM
 
-# BASIC-BANKING-SYSTEM
 The Sparks Foundation Internship Project : Basic Banking System
 
 ## Features
